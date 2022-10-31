@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Masoud Ebrahimi
+- 👋 Hi, I’m Masoud Ebrahimi as Fullstack developer
 - 👀 I’m interested in Vuejs and Laravel 
 - 🌱 I’m currently learning about Inertiajs and Vite 
 
