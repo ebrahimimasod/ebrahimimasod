@@ -1,7 +1,8 @@
 Hi there 👋, I'm Masoud Ebrahimi
 
 💻 Software Engineer | Passionate about building robust, scalable applications and crafting tools that make life easier.
-🚀 Technologies I Work With
+
+🚀 Technologies I Work With:
 
 🛠 Backend
 
@@ -32,8 +33,9 @@ Hi there 👋, I'm Masoud Ebrahimi
     Building browser extensions to solve unique challenges.
 
 📫 Let's Connect
-    
-    🌐 [My Website](https://medialearn.ir)
-    💼 [LinkedIn](https://www.linkedin.com/in/masoud-ebrahimi74/)
+
+🌐 [My Website](https://medialearn.ir)
+
+💼 [LinkedIn](https://www.linkedin.com/in/masoud-ebrahimi74/)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech! 🚀
